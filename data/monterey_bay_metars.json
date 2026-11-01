@@ -1,0 +1,38 @@
+[
+ {
+  "icao": "KMRY",
+  "name": "Monterey Regional",
+  "temp_c": 16.7,
+  "dewp_c": 7.2,
+  "wdir": 280,
+  "wspd_kt": 8,
+  "obs_time": "2026-11-01T21:54:00Z",
+  "raw": "METAR KMRY 012154Z 28008KT 10SM CLR 17/07 A2995 RMK AO2 SLP154 T01670072",
+  "lat": 36.5904,
+  "lon": -121.8488
+ },
+ {
+  "icao": "KSNS",
+  "name": "Salinas Municipal",
+  "temp_c": 17.8,
+  "dewp_c": 8.3,
+  "wdir": 260,
+  "wspd_kt": 7,
+  "obs_time": "2026-11-01T21:53:00Z",
+  "raw": "METAR KSNS 012153Z 26007KT 10SM CLR 18/08 A2994 RMK AO2 SLP146 T01780083",
+  "lat": 36.6635,
+  "lon": -121.6093
+ },
+ {
+  "icao": "KWVI",
+  "name": "Watsonville Municipal",
+  "temp_c": 18.3,
+  "dewp_c": 8.9,
+  "wdir": 220,
+  "wspd_kt": 6,
+  "obs_time": "2026-11-01T21:53:00Z",
+  "raw": "METAR KWVI 012153Z AUTO 22006KT 10SM CLR 18/09 A2994 RMK AO2 SLP138 T01830089",
+  "lat": 36.9394,
+  "lon": -121.79
+ }
+]
