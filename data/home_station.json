@@ -2,11 +2,11 @@
  {
   "icao": "HOME",
   "name": "My weather station",
-  "temp_c": 11.4,
-  "dewp_c": 9.7,
-  "humidity_pct": 89.0,
-  "wdir": 85.0,
-  "wspd_kt": 1.8,
-  "obs_time": "2026-11-10T12:00:06Z"
+  "temp_c": 10.7,
+  "dewp_c": 9.5,
+  "humidity_pct": 92.0,
+  "wdir": 0.0,
+  "wspd_kt": 0.0,
+  "obs_time": "2026-11-10T12:59:24Z"
  }
 ]
