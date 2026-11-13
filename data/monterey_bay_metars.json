@@ -14,12 +14,12 @@
  {
   "icao": "KSNS",
   "name": "Salinas Municipal",
-  "temp_c": 17.2,
-  "dewp_c": 12.2,
-  "wdir": 240,
-  "wspd_kt": 6,
-  "obs_time": "2026-11-13T21:53:00Z",
-  "raw": "METAR KSNS 132153Z 24006KT 10SM -RA FEW044 OVC055 17/12 A2959 RMK AO2 SLP029 P0002 T01720122",
+  "temp_c": 14.4,
+  "dewp_c": 13.3,
+  "wdir": 280,
+  "wspd_kt": 15,
+  "obs_time": "2026-11-13T22:53:00Z",
+  "raw": "METAR KSNS 132253Z 28015G23KT 1 1/2SM R31/4500VP6000FT +RA SCT015 BKN023 OVC030 14/13 A2963 RMK AO2 SLP041 P0012 T01440133",
   "lat": 36.6635,
   "lon": -121.6093
  },
@@ -28,10 +28,10 @@
   "name": "Watsonville Municipal",
   "temp_c": 14.4,
   "dewp_c": 12.8,
-  "wdir": 240,
-  "wspd_kt": 17,
-  "obs_time": "2026-11-13T22:30:00Z",
-  "raw": "SPECI KWVI 132230Z AUTO 24017G32KT 10SM -RA FEW006 SCT012 OVC042 14/13 A2961 RMK AO2 PK WND 19037/2216 P0003 T01440128 TSNO $",
+  "wdir": 250,
+  "wspd_kt": 9,
+  "obs_time": "2026-11-13T22:53:00Z",
+  "raw": "METAR KWVI 132253Z AUTO 25009G21KT 10SM FEW016 BKN049 BKN065 14/13 A2962 RMK AO2 PK WND 19037/2216 WSHFT 2217 RAE46 SLP030 P0005 T01440128 $",
   "lat": 36.9394,
   "lon": -121.79
  }
