@@ -3,10 +3,10 @@
   "icao": "HOME",
   "name": "My weather station",
   "temp_c": 18.1,
-  "dewp_c": 14.2,
-  "humidity_pct": 78.0,
-  "wdir": 162.0,
-  "wspd_kt": 9.6,
-  "obs_time": "2026-11-13T07:00:17Z"
+  "dewp_c": 14.0,
+  "humidity_pct": 77.0,
+  "wdir": 228.0,
+  "wspd_kt": 13.4,
+  "obs_time": "2026-11-13T07:51:28Z"
  }
 ]

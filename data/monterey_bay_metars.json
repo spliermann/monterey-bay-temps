@@ -30,8 +30,8 @@
   "dewp_c": 12.2,
   "wdir": 0,
   "wspd_kt": 0,
-  "obs_time": "2026-11-13T06:53:00Z",
-  "raw": "METAR KWVI 130653Z AUTO 00000KT 10SM SCT029 15/12 A2974 RMK AO2 SLP070 T01500122",
+  "obs_time": "2026-11-13T07:19:00Z",
+  "raw": "SPECI KWVI 130719Z AUTO 00000KT 10SM FEW029 15/12 A2973 RMK AO2 T01500122",
   "lat": 36.9394,
   "lon": -121.79
  }
