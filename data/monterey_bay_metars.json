@@ -9,7 +9,13 @@
   "obs_time": "2026-11-16T04:54:00Z",
   "raw": "METAR KMRY 160454Z AUTO 01004KT 10SM OVC042 16/11 A3004 RMK AO2 RAB00E14B41E54 SLP185 P0000 T01560111",
   "lat": 36.5904,
-  "lon": -121.8488
+  "lon": -121.8488,
+  "temp_c_24h": 12.8,
+  "obs_time_24h": "2026-11-15T04:54:00Z",
+  "today_high_c": 18.9,
+  "today_high_time": "2026-11-15T22:54:00Z",
+  "today_low_c": 11.1,
+  "today_low_time": "2026-11-15T14:54:00Z"
  },
  {
   "icao": "KSNS",
@@ -21,7 +27,13 @@
   "obs_time": "2026-11-16T04:53:00Z",
   "raw": "METAR KSNS 160453Z AUTO 00000KT 10SM BKN060 OVC075 16/11 A3004 RMK AO2 SLP180 T01610106",
   "lat": 36.6635,
-  "lon": -121.6093
+  "lon": -121.6093,
+  "temp_c_24h": 13.9,
+  "obs_time_24h": "2026-11-15T04:53:00Z",
+  "today_high_c": 18.3,
+  "today_high_time": "2026-11-15T23:53:00Z",
+  "today_low_c": 9.4,
+  "today_low_time": "2026-11-15T15:53:00Z"
  },
  {
   "icao": "KWVI",
@@ -33,6 +45,12 @@
   "obs_time": "2026-11-16T04:53:00Z",
   "raw": "METAR KWVI 160453Z AUTO 36004KT 8SM OVC036 14/13 A3006 RMK AO2 RAE25 SLP179 P0000 T01390128",
   "lat": 36.9394,
-  "lon": -121.79
+  "lon": -121.79,
+  "temp_c_24h": 11.7,
+  "obs_time_24h": "2026-11-15T04:53:00Z",
+  "today_high_c": 17.2,
+  "today_high_time": "2026-11-15T22:53:00Z",
+  "today_low_c": 9.4,
+  "today_low_time": "2026-11-15T14:53:00Z"
  }
 ]
