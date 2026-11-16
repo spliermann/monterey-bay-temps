@@ -20509,5 +20509,113 @@
   "wind_mph": 5.3,
   "gust_mph": 10.5,
   "wdir": 358.0
+ },
+ {
+  "time": "2026-11-16T05:55:00Z",
+  "temp_f": 56.8,
+  "dewp_f": 55.7,
+  "humidity_pct": 96.0,
+  "wind_mph": 4.2,
+  "gust_mph": 12.5,
+  "wdir": 323.0
+ },
+ {
+  "time": "2026-11-16T06:00:00Z",
+  "temp_f": 56.3,
+  "dewp_f": 54.9,
+  "humidity_pct": 95.0,
+  "wind_mph": 5.5,
+  "gust_mph": 10.7,
+  "wdir": 354.0
+ },
+ {
+  "time": "2026-11-16T06:05:00Z",
+  "temp_f": 55.9,
+  "dewp_f": 54.2,
+  "humidity_pct": 94.0,
+  "wind_mph": 7.1,
+  "gust_mph": 13.9,
+  "wdir": 18.0
+ },
+ {
+  "time": "2026-11-16T06:10:00Z",
+  "temp_f": 55.8,
+  "dewp_f": 54.1,
+  "humidity_pct": 94.0,
+  "wind_mph": 5.4,
+  "gust_mph": 13.4,
+  "wdir": 16.0
+ },
+ {
+  "time": "2026-11-16T06:15:00Z",
+  "temp_f": 55.6,
+  "dewp_f": 53.9,
+  "humidity_pct": 94.0,
+  "wind_mph": 5.2,
+  "gust_mph": 11.0,
+  "wdir": 348.0
+ },
+ {
+  "time": "2026-11-16T06:20:00Z",
+  "temp_f": 55.4,
+  "dewp_f": 53.7,
+  "humidity_pct": 94.0,
+  "wind_mph": 4.4,
+  "gust_mph": 13.4,
+  "wdir": 308.0
+ },
+ {
+  "time": "2026-11-16T06:25:00Z",
+  "temp_f": 55.4,
+  "dewp_f": 53.7,
+  "humidity_pct": 94.0,
+  "wind_mph": 3.4,
+  "gust_mph": 6.9,
+  "wdir": 295.0
+ },
+ {
+  "time": "2026-11-16T06:30:00Z",
+  "temp_f": 55.2,
+  "dewp_f": 53.5,
+  "humidity_pct": 94.0,
+  "wind_mph": 3.9,
+  "gust_mph": 8.7,
+  "wdir": 281.0
+ },
+ {
+  "time": "2026-11-16T06:35:00Z",
+  "temp_f": 55.1,
+  "dewp_f": 53.6,
+  "humidity_pct": 95.0,
+  "wind_mph": 4.9,
+  "gust_mph": 11.9,
+  "wdir": 329.0
+ },
+ {
+  "time": "2026-11-16T06:40:00Z",
+  "temp_f": 54.9,
+  "dewp_f": 53.4,
+  "humidity_pct": 95.0,
+  "wind_mph": 4.5,
+  "gust_mph": 11.9,
+  "wdir": 334.0
+ },
+ {
+  "time": "2026-11-16T06:45:00Z",
+  "temp_f": 54.5,
+  "dewp_f": 52.8,
+  "humidity_pct": 94.0,
+  "wind_mph": 8.4,
+  "gust_mph": 20.6,
+  "wdir": 353.0
+ },
+ {
+  "time": "2026-11-16T06:50:00Z",
+  "temp_f": 54.3,
+  "dewp_f": 52.3,
+  "humidity_pct": 93.0,
+  "wind_mph": 8.6,
+  "gust_mph": 18.1,
+  "wdir": 346.0
  }
 ]
