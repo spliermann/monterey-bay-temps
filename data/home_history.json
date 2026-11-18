@@ -19213,5 +19213,113 @@
   "wind_mph": 10.5,
   "gust_mph": 19.7,
   "wdir": 195.0
+ },
+ {
+  "time": "2026-11-18T17:55:00Z",
+  "temp_f": 56.3,
+  "dewp_f": 54.0,
+  "humidity_pct": 92.0,
+  "wind_mph": 9.7,
+  "gust_mph": 17.4,
+  "wdir": 195.0
+ },
+ {
+  "time": "2026-11-18T18:00:00Z",
+  "temp_f": 56.5,
+  "dewp_f": 54.6,
+  "humidity_pct": 93.0,
+  "wind_mph": 13.5,
+  "gust_mph": 24.6,
+  "wdir": 194.0
+ },
+ {
+  "time": "2026-11-18T18:05:00Z",
+  "temp_f": 58.0,
+  "dewp_f": 55.9,
+  "humidity_pct": 93.0,
+  "wind_mph": 15.0,
+  "gust_mph": 26.8,
+  "wdir": 195.0
+ },
+ {
+  "time": "2026-11-18T18:10:00Z",
+  "temp_f": 58.5,
+  "dewp_f": 56.2,
+  "humidity_pct": 92.0,
+  "wind_mph": 19.9,
+  "gust_mph": 28.0,
+  "wdir": 193.0
+ },
+ {
+  "time": "2026-11-18T18:15:00Z",
+  "temp_f": 58.5,
+  "dewp_f": 56.3,
+  "humidity_pct": 92.0,
+  "wind_mph": 14.2,
+  "gust_mph": 27.7,
+  "wdir": 195.0
+ },
+ {
+  "time": "2026-11-18T18:20:00Z",
+  "temp_f": 58.5,
+  "dewp_f": 56.5,
+  "humidity_pct": 93.0,
+  "wind_mph": 15.2,
+  "gust_mph": 34.7,
+  "wdir": 199.0
+ },
+ {
+  "time": "2026-11-18T18:25:00Z",
+  "temp_f": 58.6,
+  "dewp_f": 56.6,
+  "humidity_pct": 93.0,
+  "wind_mph": 14.4,
+  "gust_mph": 31.8,
+  "wdir": 189.0
+ },
+ {
+  "time": "2026-11-18T18:30:00Z",
+  "temp_f": 58.8,
+  "dewp_f": 56.5,
+  "humidity_pct": 92.0,
+  "wind_mph": 17.8,
+  "gust_mph": 32.4,
+  "wdir": 195.0
+ },
+ {
+  "time": "2026-11-18T18:35:00Z",
+  "temp_f": 59.0,
+  "dewp_f": 56.7,
+  "humidity_pct": 92.0,
+  "wind_mph": 19.4,
+  "gust_mph": 34.7,
+  "wdir": 191.0
+ },
+ {
+  "time": "2026-11-18T18:40:00Z",
+  "temp_f": 58.9,
+  "dewp_f": 56.6,
+  "humidity_pct": 92.0,
+  "wind_mph": 24.0,
+  "gust_mph": 38.9,
+  "wdir": 194.0
+ },
+ {
+  "time": "2026-11-18T18:45:00Z",
+  "temp_f": 58.8,
+  "dewp_f": 56.5,
+  "humidity_pct": 92.0,
+  "wind_mph": 19.6,
+  "gust_mph": 38.9,
+  "wdir": 197.0
+ },
+ {
+  "time": "2026-11-18T18:50:00Z",
+  "temp_f": 58.6,
+  "dewp_f": 56.3,
+  "humidity_pct": 92.0,
+  "wind_mph": 18.2,
+  "gust_mph": 31.5,
+  "wdir": 196.0
  }
 ]
