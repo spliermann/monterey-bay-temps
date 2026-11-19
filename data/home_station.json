@@ -5,14 +5,14 @@
   "temp_c": 10.5,
   "dewp_c": 9.9,
   "humidity_pct": 96.0,
-  "wdir": 300.0,
+  "wdir": 53.0,
   "wspd_kt": 0.0,
-  "obs_time": "2026-11-19T12:54:59Z",
+  "obs_time": "2026-11-19T13:00:15Z",
   "temp_c_24h": 12.8,
-  "obs_time_24h": "2026-11-18T12:55:00Z",
+  "obs_time_24h": "2026-11-18T13:00:00Z",
   "today_high_c": 15.1,
   "today_high_time": "2026-11-19T11:20:00Z",
   "today_low_c": 10.5,
-  "today_low_time": "2026-11-19T12:45:00Z"
+  "today_low_time": "2026-11-19T12:50:00Z"
  }
 ]
