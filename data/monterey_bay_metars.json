@@ -39,18 +39,18 @@
   "icao": "KWVI",
   "name": "Watsonville Municipal",
   "temp_c": 11.7,
-  "dewp_c": 10,
-  "wdir": 150,
-  "wspd_kt": 6,
-  "obs_time": "2026-11-19T11:53:00Z",
-  "raw": "METAR KWVI 191153Z AUTO 15006KT 9SM -RA SCT027 BKN033 OVC050 12/10 A2972 RMK AO2 RAB01 SLP065 P0014 60024 70273 T01170100 10133 20106 58020",
+  "dewp_c": 10.6,
+  "wdir": 230,
+  "wspd_kt": 7,
+  "obs_time": "2026-11-19T12:27:00Z",
+  "raw": "SPECI KWVI 191227Z AUTO 23007KT 3SM +RA BR SCT009 BKN023 OVC036 12/11 A2974 RMK AO2 P0019 T01170106",
   "lat": 36.9394,
   "lon": -121.79,
   "temp_c_24h": 10,
-  "obs_time_24h": "2026-11-18T11:53:00Z",
+  "obs_time_24h": "2026-11-18T12:53:00Z",
   "today_high_c": 12.2,
   "today_high_time": "2026-11-19T11:46:00Z",
   "today_low_c": 11.7,
-  "today_low_time": "2026-11-19T11:53:00Z"
+  "today_low_time": "2026-11-19T12:27:00Z"
  }
 ]
