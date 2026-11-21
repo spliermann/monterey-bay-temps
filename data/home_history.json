@@ -18952,5 +18952,50 @@
   "wind_mph": 3.4,
   "gust_mph": 6.3,
   "wdir": 29.0
+ },
+ {
+  "time": "2026-11-21T16:55:00Z",
+  "temp_f": 45.3,
+  "dewp_f": 42.8,
+  "humidity_pct": 91.0,
+  "wind_mph": 2.1,
+  "gust_mph": 4.9,
+  "wdir": 29.0
+ },
+ {
+  "time": "2026-11-21T17:00:00Z",
+  "temp_f": 45.5,
+  "dewp_f": 43.0,
+  "humidity_pct": 91.0,
+  "wind_mph": 2.4,
+  "gust_mph": 4.9,
+  "wdir": 38.0
+ },
+ {
+  "time": "2026-11-21T17:05:00Z",
+  "temp_f": 45.7,
+  "dewp_f": 43.0,
+  "humidity_pct": 90.0,
+  "wind_mph": 1.9,
+  "gust_mph": 5.6,
+  "wdir": 15.0
+ },
+ {
+  "time": "2026-11-21T17:10:00Z",
+  "temp_f": 46.1,
+  "dewp_f": 43.3,
+  "humidity_pct": 90.0,
+  "wind_mph": 2.5,
+  "gust_mph": 5.1,
+  "wdir": 16.0
+ },
+ {
+  "time": "2026-11-21T17:15:00Z",
+  "temp_f": 46.2,
+  "dewp_f": 43.4,
+  "humidity_pct": 90.0,
+  "wind_mph": 2.3,
+  "gust_mph": 5.4,
+  "wdir": 354.0
  }
 ]
