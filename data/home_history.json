@@ -19384,5 +19384,113 @@
   "wind_mph": 4.8,
   "gust_mph": 10.1,
   "wdir": 184.0
+ },
+ {
+  "time": "2026-11-23T20:55:00Z",
+  "temp_f": 58.6,
+  "dewp_f": 46.1,
+  "humidity_pct": 63.0,
+  "wind_mph": 3.6,
+  "gust_mph": 7.2,
+  "wdir": 188.0
+ },
+ {
+  "time": "2026-11-23T21:00:00Z",
+  "temp_f": 59.4,
+  "dewp_f": 46.9,
+  "humidity_pct": 63.0,
+  "wind_mph": 4.7,
+  "gust_mph": 6.9,
+  "wdir": 197.0
+ },
+ {
+  "time": "2026-11-23T21:05:00Z",
+  "temp_f": 59.0,
+  "dewp_f": 47.2,
+  "humidity_pct": 65.0,
+  "wind_mph": 4.7,
+  "gust_mph": 9.2,
+  "wdir": 202.0
+ },
+ {
+  "time": "2026-11-23T21:10:00Z",
+  "temp_f": 59.4,
+  "dewp_f": 47.4,
+  "humidity_pct": 65.0,
+  "wind_mph": 5.3,
+  "gust_mph": 9.2,
+  "wdir": 215.0
+ },
+ {
+  "time": "2026-11-23T21:15:00Z",
+  "temp_f": 59.6,
+  "dewp_f": 47.6,
+  "humidity_pct": 64.0,
+  "wind_mph": 4.7,
+  "gust_mph": 8.1,
+  "wdir": 202.0
+ },
+ {
+  "time": "2026-11-23T21:20:00Z",
+  "temp_f": 59.2,
+  "dewp_f": 47.1,
+  "humidity_pct": 64.0,
+  "wind_mph": 4.6,
+  "gust_mph": 8.3,
+  "wdir": 177.0
+ },
+ {
+  "time": "2026-11-23T21:25:00Z",
+  "temp_f": 59.0,
+  "dewp_f": 47.2,
+  "humidity_pct": 65.0,
+  "wind_mph": 3.9,
+  "gust_mph": 8.5,
+  "wdir": 180.0
+ },
+ {
+  "time": "2026-11-23T21:30:00Z",
+  "temp_f": 59.2,
+  "dewp_f": 47.2,
+  "humidity_pct": 64.0,
+  "wind_mph": 3.9,
+  "gust_mph": 7.2,
+  "wdir": 184.0
+ },
+ {
+  "time": "2026-11-23T21:35:00Z",
+  "temp_f": 59.5,
+  "dewp_f": 46.8,
+  "humidity_pct": 63.0,
+  "wind_mph": 3.6,
+  "gust_mph": 7.2,
+  "wdir": 185.0
+ },
+ {
+  "time": "2026-11-23T21:40:00Z",
+  "temp_f": 59.5,
+  "dewp_f": 46.4,
+  "humidity_pct": 62.0,
+  "wind_mph": 5.3,
+  "gust_mph": 7.4,
+  "wdir": 193.0
+ },
+ {
+  "time": "2026-11-23T21:45:00Z",
+  "temp_f": 59.4,
+  "dewp_f": 46.0,
+  "humidity_pct": 61.0,
+  "wind_mph": 3.7,
+  "gust_mph": 6.5,
+  "wdir": 201.0
+ },
+ {
+  "time": "2026-11-23T21:50:00Z",
+  "temp_f": 59.9,
+  "dewp_f": 46.0,
+  "humidity_pct": 60.0,
+  "wind_mph": 4.1,
+  "gust_mph": 6.3,
+  "wdir": 201.0
  }
 ]
