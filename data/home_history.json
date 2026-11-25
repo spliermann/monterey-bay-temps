@@ -20356,5 +20356,113 @@
   "wind_mph": 4.0,
   "gust_mph": 6.3,
   "wdir": 167.0
+ },
+ {
+  "time": "2026-11-25T05:55:00Z",
+  "temp_f": 61.3,
+  "dewp_f": 53.7,
+  "humidity_pct": 76.0,
+  "wind_mph": 3.7,
+  "gust_mph": 6.9,
+  "wdir": 166.0
+ },
+ {
+  "time": "2026-11-25T06:00:00Z",
+  "temp_f": 61.3,
+  "dewp_f": 53.9,
+  "humidity_pct": 77.0,
+  "wind_mph": 3.2,
+  "gust_mph": 6.5,
+  "wdir": 180.0
+ },
+ {
+  "time": "2026-11-25T06:05:00Z",
+  "temp_f": 61.2,
+  "dewp_f": 53.8,
+  "humidity_pct": 77.0,
+  "wind_mph": 4.5,
+  "gust_mph": 8.5,
+  "wdir": 183.0
+ },
+ {
+  "time": "2026-11-25T06:10:00Z",
+  "temp_f": 61.3,
+  "dewp_f": 53.8,
+  "humidity_pct": 76.0,
+  "wind_mph": 6.0,
+  "gust_mph": 11.9,
+  "wdir": 175.0
+ },
+ {
+  "time": "2026-11-25T06:15:00Z",
+  "temp_f": 61.1,
+  "dewp_f": 54.7,
+  "humidity_pct": 80.0,
+  "wind_mph": 4.0,
+  "gust_mph": 8.1,
+  "wdir": 198.0
+ },
+ {
+  "time": "2026-11-25T06:20:00Z",
+  "temp_f": 60.2,
+  "dewp_f": 54.9,
+  "humidity_pct": 83.0,
+  "wind_mph": 4.0,
+  "gust_mph": 8.7,
+  "wdir": 202.0
+ },
+ {
+  "time": "2026-11-25T06:25:00Z",
+  "temp_f": 60.1,
+  "dewp_f": 55.0,
+  "humidity_pct": 83.0,
+  "wind_mph": 3.8,
+  "gust_mph": 6.9,
+  "wdir": 168.0
+ },
+ {
+  "time": "2026-11-25T06:30:00Z",
+  "temp_f": 60.1,
+  "dewp_f": 54.9,
+  "humidity_pct": 83.0,
+  "wind_mph": 2.7,
+  "gust_mph": 6.9,
+  "wdir": 162.0
+ },
+ {
+  "time": "2026-11-25T06:35:00Z",
+  "temp_f": 60.1,
+  "dewp_f": 55.0,
+  "humidity_pct": 83.0,
+  "wind_mph": 2.9,
+  "gust_mph": 6.3,
+  "wdir": 177.0
+ },
+ {
+  "time": "2026-11-25T06:40:00Z",
+  "temp_f": 59.9,
+  "dewp_f": 55.4,
+  "humidity_pct": 85.0,
+  "wind_mph": 4.4,
+  "gust_mph": 8.7,
+  "wdir": 156.0
+ },
+ {
+  "time": "2026-11-25T06:45:00Z",
+  "temp_f": 59.4,
+  "dewp_f": 55.6,
+  "humidity_pct": 87.0,
+  "wind_mph": 4.4,
+  "gust_mph": 9.2,
+  "wdir": 158.0
+ },
+ {
+  "time": "2026-11-25T06:50:00Z",
+  "temp_f": 59.1,
+  "dewp_f": 55.6,
+  "humidity_pct": 88.0,
+  "wind_mph": 3.4,
+  "gust_mph": 9.2,
+  "wdir": 150.0
  }
 ]
