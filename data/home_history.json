@@ -19924,5 +19924,113 @@
   "wind_mph": 7.8,
   "gust_mph": 15.2,
   "wdir": 192.0
+ },
+ {
+  "time": "2026-11-25T01:55:00Z",
+  "temp_f": 62.7,
+  "dewp_f": 55.0,
+  "humidity_pct": 76.0,
+  "wind_mph": 7.7,
+  "gust_mph": 16.1,
+  "wdir": 209.0
+ },
+ {
+  "time": "2026-11-25T02:00:00Z",
+  "temp_f": 62.6,
+  "dewp_f": 54.7,
+  "humidity_pct": 75.0,
+  "wind_mph": 8.5,
+  "gust_mph": 16.1,
+  "wdir": 189.0
+ },
+ {
+  "time": "2026-11-25T02:05:00Z",
+  "temp_f": 62.8,
+  "dewp_f": 54.9,
+  "humidity_pct": 76.0,
+  "wind_mph": 6.6,
+  "gust_mph": 11.0,
+  "wdir": 190.0
+ },
+ {
+  "time": "2026-11-25T02:10:00Z",
+  "temp_f": 62.6,
+  "dewp_f": 54.7,
+  "humidity_pct": 75.0,
+  "wind_mph": 6.1,
+  "gust_mph": 13.2,
+  "wdir": 210.0
+ },
+ {
+  "time": "2026-11-25T02:15:00Z",
+  "temp_f": 62.6,
+  "dewp_f": 54.8,
+  "humidity_pct": 76.0,
+  "wind_mph": 5.9,
+  "gust_mph": 13.9,
+  "wdir": 202.0
+ },
+ {
+  "time": "2026-11-25T02:20:00Z",
+  "temp_f": 62.7,
+  "dewp_f": 55.1,
+  "humidity_pct": 76.0,
+  "wind_mph": 6.9,
+  "gust_mph": 13.9,
+  "wdir": 198.0
+ },
+ {
+  "time": "2026-11-25T02:25:00Z",
+  "temp_f": 62.6,
+  "dewp_f": 55.3,
+  "humidity_pct": 77.0,
+  "wind_mph": 5.4,
+  "gust_mph": 12.3,
+  "wdir": 199.0
+ },
+ {
+  "time": "2026-11-25T02:30:00Z",
+  "temp_f": 62.8,
+  "dewp_f": 55.2,
+  "humidity_pct": 76.0,
+  "wind_mph": 6.7,
+  "gust_mph": 17.9,
+  "wdir": 191.0
+ },
+ {
+  "time": "2026-11-25T02:35:00Z",
+  "temp_f": 62.7,
+  "dewp_f": 54.9,
+  "humidity_pct": 76.0,
+  "wind_mph": 8.9,
+  "gust_mph": 14.5,
+  "wdir": 187.0
+ },
+ {
+  "time": "2026-11-25T02:40:00Z",
+  "temp_f": 62.8,
+  "dewp_f": 54.5,
+  "humidity_pct": 74.0,
+  "wind_mph": 9.3,
+  "gust_mph": 16.1,
+  "wdir": 196.0
+ },
+ {
+  "time": "2026-11-25T02:45:00Z",
+  "temp_f": 62.8,
+  "dewp_f": 55.0,
+  "humidity_pct": 76.0,
+  "wind_mph": 9.1,
+  "gust_mph": 16.1,
+  "wdir": 198.0
+ },
+ {
+  "time": "2026-11-25T02:50:00Z",
+  "temp_f": 62.8,
+  "dewp_f": 54.6,
+  "humidity_pct": 75.0,
+  "wind_mph": 8.2,
+  "gust_mph": 14.1,
+  "wdir": 187.0
  }
 ]
