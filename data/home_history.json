@@ -18979,5 +18979,113 @@
   "wind_mph": 5.1,
   "gust_mph": 8.7,
   "wdir": 191.0
+ },
+ {
+  "time": "2026-11-25T19:55:00Z",
+  "temp_f": 64.9,
+  "dewp_f": 55.4,
+  "humidity_pct": 71.0,
+  "wind_mph": 4.4,
+  "gust_mph": 8.1,
+  "wdir": 215.0
+ },
+ {
+  "time": "2026-11-25T20:00:00Z",
+  "temp_f": 65.4,
+  "dewp_f": 55.3,
+  "humidity_pct": 70.0,
+  "wind_mph": 5.4,
+  "gust_mph": 8.1,
+  "wdir": 202.0
+ },
+ {
+  "time": "2026-11-25T20:05:00Z",
+  "temp_f": 65.2,
+  "dewp_f": 55.5,
+  "humidity_pct": 71.0,
+  "wind_mph": 6.0,
+  "gust_mph": 8.9,
+  "wdir": 200.0
+ },
+ {
+  "time": "2026-11-25T20:10:00Z",
+  "temp_f": 64.6,
+  "dewp_f": 55.4,
+  "humidity_pct": 72.0,
+  "wind_mph": 4.6,
+  "gust_mph": 8.9,
+  "wdir": 192.0
+ },
+ {
+  "time": "2026-11-25T20:15:00Z",
+  "temp_f": 64.8,
+  "dewp_f": 55.8,
+  "humidity_pct": 72.0,
+  "wind_mph": 5.6,
+  "gust_mph": 8.3,
+  "wdir": 210.0
+ },
+ {
+  "time": "2026-11-25T20:20:00Z",
+  "temp_f": 65.0,
+  "dewp_f": 56.1,
+  "humidity_pct": 73.0,
+  "wind_mph": 5.5,
+  "gust_mph": 8.3,
+  "wdir": 209.0
+ },
+ {
+  "time": "2026-11-25T20:25:00Z",
+  "temp_f": 64.9,
+  "dewp_f": 56.1,
+  "humidity_pct": 73.0,
+  "wind_mph": 5.2,
+  "gust_mph": 10.1,
+  "wdir": 215.0
+ },
+ {
+  "time": "2026-11-25T20:30:00Z",
+  "temp_f": 65.1,
+  "dewp_f": 56.0,
+  "humidity_pct": 73.0,
+  "wind_mph": 4.8,
+  "gust_mph": 8.3,
+  "wdir": 193.0
+ },
+ {
+  "time": "2026-11-25T20:35:00Z",
+  "temp_f": 64.5,
+  "dewp_f": 56.2,
+  "humidity_pct": 74.0,
+  "wind_mph": 5.1,
+  "gust_mph": 9.4,
+  "wdir": 188.0
+ },
+ {
+  "time": "2026-11-25T20:40:00Z",
+  "temp_f": 64.7,
+  "dewp_f": 56.4,
+  "humidity_pct": 74.0,
+  "wind_mph": 5.7,
+  "gust_mph": 9.2,
+  "wdir": 195.0
+ },
+ {
+  "time": "2026-11-25T20:45:00Z",
+  "temp_f": 64.6,
+  "dewp_f": 56.5,
+  "humidity_pct": 75.0,
+  "wind_mph": 4.9,
+  "gust_mph": 9.2,
+  "wdir": 192.0
+ },
+ {
+  "time": "2026-11-25T20:50:00Z",
+  "temp_f": 65.4,
+  "dewp_f": 56.8,
+  "humidity_pct": 74.0,
+  "wind_mph": 5.5,
+  "gust_mph": 9.2,
+  "wdir": 237.0
  }
 ]
