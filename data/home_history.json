@@ -20239,5 +20239,14 @@
   "wind_mph": 4.7,
   "gust_mph": 7.6,
   "wdir": 146.0
+ },
+ {
+  "time": "2026-11-25T04:50:00Z",
+  "temp_f": 61.6,
+  "dewp_f": 56.1,
+  "humidity_pct": 82.0,
+  "wind_mph": 4.7,
+  "gust_mph": 9.2,
+  "wdir": 148.0
  }
 ]
