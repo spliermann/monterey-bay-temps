@@ -2,17 +2,17 @@
  {
   "icao": "HOME",
   "name": "Santa Cruz",
-  "temp_c": 11.5,
-  "dewp_c": 10.2,
+  "temp_c": 11.1,
+  "dewp_c": 9.9,
   "humidity_pct": 92.0,
-  "wdir": 122.0,
-  "wspd_kt": 2.3,
-  "obs_time": "2026-11-26T09:26:09Z",
+  "wdir": 64.0,
+  "wspd_kt": 1.9,
+  "obs_time": "2026-11-26T09:59:53Z",
   "temp_c_24h": null,
   "obs_time_24h": null,
   "today_high_c": 12.2,
   "today_high_time": "2026-11-26T08:10:00Z",
-  "today_low_c": 11.4,
-  "today_low_time": "2026-11-26T09:15:00Z"
+  "today_low_c": 11.3,
+  "today_low_time": "2026-11-26T09:50:00Z"
  }
 ]
