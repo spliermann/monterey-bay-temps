@@ -19411,5 +19411,32 @@
   "wind_mph": 5.4,
   "gust_mph": 13.7,
   "wdir": 269.0
+ },
+ {
+  "time": "2026-11-25T23:55:00Z",
+  "temp_f": 64.5,
+  "dewp_f": 57.5,
+  "humidity_pct": 78.0,
+  "wind_mph": 4.7,
+  "gust_mph": 10.5,
+  "wdir": 259.0
+ },
+ {
+  "time": "2026-11-26T00:00:00Z",
+  "temp_f": 64.3,
+  "dewp_f": 57.4,
+  "humidity_pct": 78.0,
+  "wind_mph": 3.6,
+  "gust_mph": 10.3,
+  "wdir": 254.0
+ },
+ {
+  "time": "2026-11-26T00:05:00Z",
+  "temp_f": 64.3,
+  "dewp_f": 57.2,
+  "humidity_pct": 78.0,
+  "wind_mph": 4.5,
+  "gust_mph": 11.0,
+  "wdir": 254.0
  }
 ]
