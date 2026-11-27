@@ -17980,5 +17980,113 @@
   "wind_mph": 1.8,
   "gust_mph": 3.4,
   "wdir": 309.0
+ },
+ {
+  "time": "2026-11-27T09:55:00Z",
+  "temp_f": 49.5,
+  "dewp_f": 43.9,
+  "humidity_pct": 81.0,
+  "wind_mph": 1.7,
+  "gust_mph": 4.5,
+  "wdir": 331.0
+ },
+ {
+  "time": "2026-11-27T10:00:00Z",
+  "temp_f": 49.5,
+  "dewp_f": 43.6,
+  "humidity_pct": 80.0,
+  "wind_mph": 1.2,
+  "gust_mph": 4.2,
+  "wdir": 334.0
+ },
+ {
+  "time": "2026-11-27T10:05:00Z",
+  "temp_f": 49.6,
+  "dewp_f": 43.5,
+  "humidity_pct": 79.0,
+  "wind_mph": 1.4,
+  "gust_mph": 3.1,
+  "wdir": 305.0
+ },
+ {
+  "time": "2026-11-27T10:10:00Z",
+  "temp_f": 49.5,
+  "dewp_f": 43.3,
+  "humidity_pct": 79.0,
+  "wind_mph": 0.6,
+  "gust_mph": 2.7,
+  "wdir": 303.0
+ },
+ {
+  "time": "2026-11-27T10:15:00Z",
+  "temp_f": 49.6,
+  "dewp_f": 43.4,
+  "humidity_pct": 79.0,
+  "wind_mph": 1.0,
+  "gust_mph": 2.5,
+  "wdir": 236.0
+ },
+ {
+  "time": "2026-11-27T10:20:00Z",
+  "temp_f": 49.5,
+  "dewp_f": 43.5,
+  "humidity_pct": 80.0,
+  "wind_mph": 0.9,
+  "gust_mph": 2.5,
+  "wdir": 186.0
+ },
+ {
+  "time": "2026-11-27T10:25:00Z",
+  "temp_f": 49.1,
+  "dewp_f": 43.5,
+  "humidity_pct": 81.0,
+  "wind_mph": 1.4,
+  "gust_mph": 3.4,
+  "wdir": 101.0
+ },
+ {
+  "time": "2026-11-27T10:30:00Z",
+  "temp_f": 49.1,
+  "dewp_f": 43.5,
+  "humidity_pct": 81.0,
+  "wind_mph": 1.7,
+  "gust_mph": 3.4,
+  "wdir": 325.0
+ },
+ {
+  "time": "2026-11-27T10:35:00Z",
+  "temp_f": 48.9,
+  "dewp_f": 43.3,
+  "humidity_pct": 81.0,
+  "wind_mph": 1.8,
+  "gust_mph": 3.6,
+  "wdir": 331.0
+ },
+ {
+  "time": "2026-11-27T10:40:00Z",
+  "temp_f": 48.7,
+  "dewp_f": 43.5,
+  "humidity_pct": 82.0,
+  "wind_mph": 0.0,
+  "gust_mph": 2.9,
+  "wdir": 311.0
+ },
+ {
+  "time": "2026-11-27T10:45:00Z",
+  "temp_f": 48.6,
+  "dewp_f": 43.4,
+  "humidity_pct": 82.0,
+  "wind_mph": 0.8,
+  "gust_mph": 2.2,
+  "wdir": 244.0
+ },
+ {
+  "time": "2026-11-27T10:50:00Z",
+  "temp_f": 48.4,
+  "dewp_f": 43.5,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.2,
+  "gust_mph": 2.0,
+  "wdir": 240.0
  }
 ]
