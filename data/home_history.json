@@ -19384,5 +19384,113 @@
   "wind_mph": 6.6,
   "gust_mph": 12.1,
   "wdir": 232.0
+ },
+ {
+  "time": "2026-11-26T22:55:00Z",
+  "temp_f": 67.8,
+  "dewp_f": 58.8,
+  "humidity_pct": 73.0,
+  "wind_mph": 7.2,
+  "gust_mph": 10.7,
+  "wdir": 226.0
+ },
+ {
+  "time": "2026-11-26T23:00:00Z",
+  "temp_f": 68.3,
+  "dewp_f": 59.0,
+  "humidity_pct": 72.0,
+  "wind_mph": 6.0,
+  "gust_mph": 9.8,
+  "wdir": 217.0
+ },
+ {
+  "time": "2026-11-26T23:05:00Z",
+  "temp_f": 68.5,
+  "dewp_f": 59.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 6.2,
+  "gust_mph": 8.1,
+  "wdir": 224.0
+ },
+ {
+  "time": "2026-11-26T23:10:00Z",
+  "temp_f": 68.6,
+  "dewp_f": 59.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 6.3,
+  "gust_mph": 8.7,
+  "wdir": 226.0
+ },
+ {
+  "time": "2026-11-26T23:15:00Z",
+  "temp_f": 68.5,
+  "dewp_f": 59.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 6.6,
+  "gust_mph": 9.6,
+  "wdir": 224.0
+ },
+ {
+  "time": "2026-11-26T23:20:00Z",
+  "temp_f": 68.3,
+  "dewp_f": 59.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 6.5,
+  "gust_mph": 9.2,
+  "wdir": 233.0
+ },
+ {
+  "time": "2026-11-26T23:25:00Z",
+  "temp_f": 67.7,
+  "dewp_f": 58.9,
+  "humidity_pct": 74.0,
+  "wind_mph": 5.5,
+  "gust_mph": 9.2,
+  "wdir": 227.0
+ },
+ {
+  "time": "2026-11-26T23:30:00Z",
+  "temp_f": 67.7,
+  "dewp_f": 59.2,
+  "humidity_pct": 74.0,
+  "wind_mph": 5.9,
+  "gust_mph": 8.3,
+  "wdir": 219.0
+ },
+ {
+  "time": "2026-11-26T23:35:00Z",
+  "temp_f": 68.1,
+  "dewp_f": 59.1,
+  "humidity_pct": 73.0,
+  "wind_mph": 6.0,
+  "gust_mph": 8.3,
+  "wdir": 224.0
+ },
+ {
+  "time": "2026-11-26T23:40:00Z",
+  "temp_f": 68.4,
+  "dewp_f": 59.0,
+  "humidity_pct": 72.0,
+  "wind_mph": 5.1,
+  "gust_mph": 8.3,
+  "wdir": 226.0
+ },
+ {
+  "time": "2026-11-26T23:45:00Z",
+  "temp_f": 68.3,
+  "dewp_f": 58.8,
+  "humidity_pct": 72.0,
+  "wind_mph": 5.4,
+  "gust_mph": 7.4,
+  "wdir": 229.0
+ },
+ {
+  "time": "2026-11-26T23:50:00Z",
+  "temp_f": 68.0,
+  "dewp_f": 58.6,
+  "humidity_pct": 72.0,
+  "wind_mph": 4.7,
+  "gust_mph": 7.6,
+  "wdir": 220.0
  }
 ]
