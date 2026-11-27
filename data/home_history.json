@@ -18736,5 +18736,122 @@
   "wind_mph": 1.4,
   "gust_mph": 6.0,
   "wdir": 60.0
+ },
+ {
+  "time": "2026-11-27T16:55:00Z",
+  "temp_f": 51.8,
+  "dewp_f": 43.4,
+  "humidity_pct": 73.0,
+  "wind_mph": 2.1,
+  "gust_mph": 6.0,
+  "wdir": 74.0
+ },
+ {
+  "time": "2026-11-27T17:00:00Z",
+  "temp_f": 52.5,
+  "dewp_f": 44.0,
+  "humidity_pct": 73.0,
+  "wind_mph": 1.1,
+  "gust_mph": 3.6,
+  "wdir": 86.0
+ },
+ {
+  "time": "2026-11-27T17:05:00Z",
+  "temp_f": 53.2,
+  "dewp_f": 44.1,
+  "humidity_pct": 71.0,
+  "wind_mph": 1.7,
+  "gust_mph": 4.7,
+  "wdir": 59.0
+ },
+ {
+  "time": "2026-11-27T17:10:00Z",
+  "temp_f": 53.5,
+  "dewp_f": 44.2,
+  "humidity_pct": 71.0,
+  "wind_mph": 2.6,
+  "gust_mph": 4.5,
+  "wdir": 345.0
+ },
+ {
+  "time": "2026-11-27T17:15:00Z",
+  "temp_f": 54.1,
+  "dewp_f": 43.9,
+  "humidity_pct": 68.0,
+  "wind_mph": 3.1,
+  "gust_mph": 4.7,
+  "wdir": 26.0
+ },
+ {
+  "time": "2026-11-27T17:20:00Z",
+  "temp_f": 54.9,
+  "dewp_f": 44.3,
+  "humidity_pct": 67.0,
+  "wind_mph": 2.8,
+  "gust_mph": 4.5,
+  "wdir": 11.0
+ },
+ {
+  "time": "2026-11-27T17:25:00Z",
+  "temp_f": 55.5,
+  "dewp_f": 44.0,
+  "humidity_pct": 65.0,
+  "wind_mph": 1.6,
+  "gust_mph": 4.7,
+  "wdir": 40.0
+ },
+ {
+  "time": "2026-11-27T17:30:00Z",
+  "temp_f": 56.0,
+  "dewp_f": 44.4,
+  "humidity_pct": 65.0,
+  "wind_mph": 2.1,
+  "gust_mph": 3.6,
+  "wdir": 359.0
+ },
+ {
+  "time": "2026-11-27T17:35:00Z",
+  "temp_f": 56.7,
+  "dewp_f": 44.7,
+  "humidity_pct": 64.0,
+  "wind_mph": 0.8,
+  "gust_mph": 3.1,
+  "wdir": 13.0
+ },
+ {
+  "time": "2026-11-27T17:40:00Z",
+  "temp_f": 57.2,
+  "dewp_f": 45.0,
+  "humidity_pct": 64.0,
+  "wind_mph": 0.8,
+  "gust_mph": 4.0,
+  "wdir": 317.0
+ },
+ {
+  "time": "2026-11-27T17:45:00Z",
+  "temp_f": 57.6,
+  "dewp_f": 45.1,
+  "humidity_pct": 63.0,
+  "wind_mph": 2.5,
+  "gust_mph": 4.0,
+  "wdir": 332.0
+ },
+ {
+  "time": "2026-11-27T17:50:00Z",
+  "temp_f": 58.0,
+  "dewp_f": 45.5,
+  "humidity_pct": 63.0,
+  "wind_mph": 1.0,
+  "gust_mph": 3.6,
+  "wdir": 335.0
+ },
+ {
+  "time": "2026-11-27T17:55:00Z",
+  "temp_f": 58.8,
+  "dewp_f": 46.1,
+  "humidity_pct": 63.0,
+  "wind_mph": 1.4,
+  "gust_mph": 3.4,
+  "wdir": 354.0
  }
 ]
