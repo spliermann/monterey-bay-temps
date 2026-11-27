@@ -18412,5 +18412,113 @@
   "wind_mph": 0.8,
   "gust_mph": 2.0,
   "wdir": 25.0
+ },
+ {
+  "time": "2026-11-27T13:55:00Z",
+  "temp_f": 46.2,
+  "dewp_f": 41.3,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.0,
+  "gust_mph": 2.0,
+  "wdir": 182.0
+ },
+ {
+  "time": "2026-11-27T14:00:00Z",
+  "temp_f": 46.2,
+  "dewp_f": 41.3,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.3,
+  "gust_mph": 2.5,
+  "wdir": 289.0
+ },
+ {
+  "time": "2026-11-27T14:05:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.1,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.8,
+  "gust_mph": 2.2,
+  "wdir": 264.0
+ },
+ {
+  "time": "2026-11-27T14:10:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.1,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.2,
+  "gust_mph": 1.8,
+  "wdir": 173.0
+ },
+ {
+  "time": "2026-11-27T14:15:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.3,
+  "humidity_pct": 84.0,
+  "wind_mph": 0.2,
+  "gust_mph": 1.6,
+  "wdir": 200.0
+ },
+ {
+  "time": "2026-11-27T14:20:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.1,
+  "humidity_pct": 83.0,
+  "wind_mph": 1.1,
+  "gust_mph": 2.0,
+  "wdir": 6.0
+ },
+ {
+  "time": "2026-11-27T14:25:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.1,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.3,
+  "gust_mph": 1.8,
+  "wdir": 180.0
+ },
+ {
+  "time": "2026-11-27T14:30:00Z",
+  "temp_f": 45.9,
+  "dewp_f": 41.0,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.0,
+  "gust_mph": 2.0,
+  "wdir": 199.0
+ },
+ {
+  "time": "2026-11-27T14:35:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.0,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.3,
+  "gust_mph": 2.0,
+  "wdir": 70.0
+ },
+ {
+  "time": "2026-11-27T14:40:00Z",
+  "temp_f": 46.2,
+  "dewp_f": 41.0,
+  "humidity_pct": 82.0,
+  "wind_mph": 0.2,
+  "gust_mph": 2.0,
+  "wdir": 88.0
+ },
+ {
+  "time": "2026-11-27T14:45:00Z",
+  "temp_f": 46.1,
+  "dewp_f": 41.0,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.7,
+  "gust_mph": 1.8,
+  "wdir": 20.0
+ },
+ {
+  "time": "2026-11-27T14:50:00Z",
+  "temp_f": 46.0,
+  "dewp_f": 41.1,
+  "humidity_pct": 83.0,
+  "wind_mph": 0.5,
+  "gust_mph": 2.2,
+  "wdir": 338.0
  }
 ]
