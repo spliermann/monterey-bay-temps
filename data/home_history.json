@@ -19915,5 +19915,23 @@
   "wind_mph": 1.6,
   "gust_mph": 3.1,
   "wdir": 53.0
+ },
+ {
+  "time": "2026-11-28T03:50:00Z",
+  "temp_f": 61.2,
+  "dewp_f": 52.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 0.8,
+  "gust_mph": 2.2,
+  "wdir": 325.0
+ },
+ {
+  "time": "2026-11-28T03:55:00Z",
+  "temp_f": 61.2,
+  "dewp_f": 52.1,
+  "humidity_pct": 72.0,
+  "wind_mph": 0.3,
+  "gust_mph": 2.2,
+  "wdir": 54.0
  }
 ]
